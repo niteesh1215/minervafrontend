@@ -2,7 +2,7 @@
 
 assignment project minerva
 
-## please change the ip address constants.dart file according to the wifi to which you're connect
+## please change the ip address in the constants.dart file according to the wifi to which you're connect
 
 'http://192.168.0.222:3000/api/v1'; (ip address will be different in your case)
 
